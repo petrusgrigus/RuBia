@@ -1,3 +1,7 @@
+# the file is edited so as to allow working with MLM models other than BERT and Albert
+# and to support newer version of huggingface transformers
+
+
 from abc import ABC, abstractmethod
 import logging
 from pathlib import Path
